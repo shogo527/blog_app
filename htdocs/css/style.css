@@ -1,0 +1,20 @@
+* {
+  text-align: center;
+  background-color: #d7eeff;
+  color: #5d99ff;
+}
+
+.file img {
+  width: 50%;
+  background: #fff;
+}
+
+.file-up {
+  margin-top: 50px;
+  margin-bottom: 50px;
+}
+
+textarea {
+  width: 400px;
+  height: 300px;
+}
